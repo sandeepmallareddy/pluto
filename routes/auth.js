@@ -24,3 +24,5 @@ auth.route('/').
 	res.send('Auth:1');
 	
     });
+
+module.exports = auth;
